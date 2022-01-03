@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/ic_coin.xml" value="0.19074074074074074" />
-        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout/activity_settings.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Daniel/Desktop/CovidBlast/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Daniel/Desktop/CovidBlast/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/Users/Daniel/Desktop/CovidBlast/app/src/main/res/layout/score_table_fragment.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Daniel/Desktop/CovidBlast/app/src/main/res/layout/settings_fregmant.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout/activity_main.xml" value="0.2962962962962963" />
       </map>
     </option>
   </component>
