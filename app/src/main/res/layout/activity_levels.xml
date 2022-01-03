@@ -48,8 +48,8 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_centerVertical="true"
-                android:src="@drawable/ic_coin"
-                android:layout_toStartOf="@+id/textview_cash" />
+                android:layout_toStartOf="@+id/textview_cash"
+                android:src="@drawable/ic_coin" />
 
             <TextView
                 android:id="@+id/textview_cash"
