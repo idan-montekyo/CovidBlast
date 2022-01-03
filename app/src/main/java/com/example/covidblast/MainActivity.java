@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         MusicPlayer player = MusicPlayer.getInstance();
         player.initialize(this);
-        player.play(true);
+//        player.play(true);
     }
 }
 

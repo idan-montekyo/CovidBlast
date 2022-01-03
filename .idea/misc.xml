@@ -4,6 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/ic_coin.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/ic_leaderboard.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/ic_play_syringe.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/ic_settings.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/shape_button_round.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/drawable/shape_selector_button_round.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout-v23/activity_main.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout/activity_levels.xml" value="0.17844202898550723" />
         <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/idan/AndroidStudioProjects/CovidBlast/app/src/main/res/layout/activity_settings.xml" value="0.17844202898550723" />
       </map>
