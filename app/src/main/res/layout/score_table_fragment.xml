@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    android:id="@+id/root"
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<TableLayout
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <TableLayout
+    <TableRow
+        android:layout_marginTop="10dp"
+        tools:ignore="UselessParent"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:weightSum="3">
 
-        />
+        <TextView
+            android:id="@+id/rand_tv"
+            android:layout_weight="1"
+            android:text="@string/user_rank"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:textAlignment="center" />
 
-    <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/name_tv"
+            android:text="@string/user_name"
+            android:layout_weight="1"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"/>
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            />
+        <TextView
+            android:id="@+id/score_tv"
+            android:text="@string/user_score"
+            android:layout_weight="1"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"/>
+    </TableRow>
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            />
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            />
-    </TableLayout>
-</RelativeLayout>
+</TableLayout>

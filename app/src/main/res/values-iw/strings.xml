@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CovidBlast</string>
+    <string name="user_name">שם</string>
+    <string name="user_score">ניקוד</string>
+    <string name="user_rank">דירוג</string>
+    <string name="final_score">תוצאה סופית</string>
+    <string name="finish_btn">סיום</string>
+</resources>
